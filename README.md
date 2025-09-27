@@ -82,10 +82,10 @@ Using enable control, latch-based clock gating, and data gating, the design redu
 
 ## Circuit Diagram
 ### 🔹 Data Gating
-![Data Gating](src/docs/pipeline_data_gating.png)
+![Data Gating](docs/pipeline_data_gating.png)
 
 ### 🔹 Clock Gating
-![Clock Gating](src/docs/pipeline_clock_gating.png)
+![Clock Gating](docs/pipeline_clock_gating.png)
 
 ## 📊 Simulation Output
 
