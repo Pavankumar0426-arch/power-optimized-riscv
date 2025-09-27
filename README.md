@@ -81,4 +81,10 @@ Using enable control, latch-based clock gating, and data gating, the design redu
 ---
 
 ## 📊 Simulation Output
-![Waveform](assets/waveform.png)
+
+### Data Gating
+![Data Gating](src/images/data_gating.png)
+
+### Clock Gating
+![Clock Gating](src/images/clock_gating.png)
+
