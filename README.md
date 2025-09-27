@@ -83,9 +83,9 @@ Using enable control, latch-based clock gating, and data gating, the design redu
 ## 📊 Simulation Output
 
 ### 🔹 Data Gating
-![Data Gating](src/images/Data gating.png)
+![Data Gating](src/images/Datagating.png)
 
 ### 🔹 Clock Gating
-![Clock Gating](src/images/clock gating.png)
+![Clock Gating](src/images/clockgating.png)
 
 
