@@ -74,32 +74,7 @@ The provided testbench validates:
 * Correct pipeline execution
 * Functional correctness of enable-control & clock gating
 * Power reduction efficiency
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/<your-username>/power-optimized-riscv.git
-   cd power-optimized-riscv
-   ```
-2. Open files in **EDA Playground** or **Xilinx Vivado**.
-3. Set `pipeline.v` as the **top module**.
-4. Add `test/testbench.v` as the testbench.
-5. Run simulation and observe waveforms & power reports.
-
----
-
-## 📊 Simulation & Circuit Outputs
-
-🔹 **Data Gating**
-(Data Gating Circuit + Simulation Waveform)
-
-🔹 **Clock Gating**
-(Clock Gating Circuit + Simulation Waveform)
-
+* 
 ---
 
 ## 👨‍💻 Authors
