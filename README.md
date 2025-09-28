@@ -78,6 +78,8 @@ power-optimized-riscv/
 ### 🔹 Clock Gating
 ![Clock Gating](docs/pipeline_clock_gating.png)
 
+---
+
 ## 📊 Simulation Output
 
 ### 🔹 Data Gating
