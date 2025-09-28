@@ -71,14 +71,6 @@ power-optimized-riscv/
 
 ---
 
-## 👨‍💻 Authors
-- M. Pavan Kumar  
-- P. V. Satya Bala  
-- M. Sai Likhith  
-- M. Divya Teja  
-
----
-
 ## Circuit Diagram
 ### 🔹 Data Gating
 ![Data Gating](docs/pipeline_data_gating.png)
@@ -94,4 +86,10 @@ power-optimized-riscv/
 ### 🔹 Clock Gating
 ![Clock Gating](src/images/clock_gating.png)
 
+---
 
+## 👨‍💻 Authors
+- M. Pavan Kumar  
+- P. V. Satya Bala  
+- M. Sai Likhith  
+- M. Divya Teja  
