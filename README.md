@@ -74,7 +74,7 @@ The provided testbench validates:
 * Correct pipeline execution
 * Functional correctness of enable-control & clock gating
 * Power reduction efficiency
-* 
+
 ---
 
 ## 👨‍💻 Authors
