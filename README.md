@@ -6,8 +6,7 @@ It uses **enable-control, latch-based clock gating, and data gating techniques**
 ---
 
 ## 📖 Abstract
-This project presents a 3-stage pipelined RISC-V processor optimized for energy-efficient computing.  
-Using enable control, latch-based clock gating, and data gating, the design reduces dynamic power from 0.71 W to 0.03 W while maintaining throughput, making it highly suitable for low-power IoT and embedded applications.
+This project presents a 3-stage pipelined RISC-V processor optimized for energy-efficient computing. Using enable control, latch-based clock gating, and data gating, the design reduces dynamic power from 0.71 W to 0.03 W while maintaining throughput, making it highly suitable for low-power IoT and embedded applications.
 
 ---
 
